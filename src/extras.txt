@@ -1,0 +1,13 @@
+CSE 331 Homework Answers:
+
+Your Name: Elaine Zhong
+
+List any additional features or functionality you implemented
+in your CampusPaths application below. Only things listed here
+will be considered for extra credit.
+
+I display the total distance traveled in a path.
+I also provide a breakdown of the total distance.
+I list each edge, the cost in feet, and the coordinates of the edge's start and end.     
+
+
